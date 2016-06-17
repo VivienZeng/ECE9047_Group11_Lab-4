@@ -1,0 +1,5 @@
+C:\Users\szimmo\Downloads\UWO\ece9407\ble\Cypress BLE Workshop\Workshop Exrecises and Manuals\Template Labs\BLE Lab 3\BLE Lab 3.cydsn\BLE Lab 3.cyprj|040d52ec-ef90-493b-b8f7-41dc5ae4d5b0
+C:\Program Files (x86)\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|070671c9-c888-4717-b940-ad97e5de98ff
+C:\Program Files (x86)\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|5550c078-3bf3-4a10-b9e0-c997bee28b32
+C:\Program Files (x86)\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|d4a6076b-6c59-443f-890a-fcf049ddfb50
+C:\Program Files (x86)\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|93af0306-ed67-4987-bc5b-6d825c22b5cc
